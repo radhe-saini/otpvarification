@@ -30,8 +30,8 @@ def read_root():
 #     for i in range(6):
 #         OTP += string[math.floor(random.random() * length)]
 #     receiver = f"{client_mail}"
-#     email = 'radhesaini288@gmail.com' #your mail
-#     passw = "8209989587"              #your password
+#     email = '#your mail'
+#     passw = "#your password"
 #     server = smtplib.SMTP('smtp.gmail.com:587')
 #     message = f'Subject:SAFEMEET VARIFICATION \n\nyour otp for safemeet verification: {OTP} do not share with anyone'
 #     server.ehlo()
