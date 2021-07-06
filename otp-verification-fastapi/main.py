@@ -75,8 +75,8 @@ def otp_sms(mob_no: str, q: Optional[str] = None):
     # Create an SNS client
     client = boto3.client(
         "sns",
-        aws_access_key_id="AKIASVSS3SAMY44LQ2FE",
-        aws_secret_access_key="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",
+        aws_access_key_id="########################",
+        aws_secret_access_key="####################################",
         region_name="us-east-1"
     )
 
